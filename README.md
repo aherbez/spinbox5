@@ -12,6 +12,8 @@ The gift is a cylindrical box with a rotating bottom. As the bottom is rotated, 
 
 The overall mechanism is similar to a chapstick, but with the addition of some gearing. 
 
+To see the box in action, check out ![this video](https://www.youtube.com/watch?v=LECbsYAFou4)
+
 This image shows all the parts assembled (in Blender) and provides a pretty good overview of how it works. 
 
 ![virtual assembly](http://i.imgur.com/12xpRhT.png)
